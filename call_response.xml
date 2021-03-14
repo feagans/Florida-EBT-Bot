@@ -1,4 +1,4 @@
 <Response>
-  <Say voice="alice">Hello! This is a Florida EBT text bot. Text me your EBT number and I will text you your current balance. If you would like to call to check EBT balance stay on the line and you will be redirected.</Say>
+  <Say voice="alice">Hello! This is a Florida EBT bot made by Alyssa Feagans. Text me your EBT number and I will text you your current balance. If you would like to call to check EBT balance stay on the line and you will be redirected.</Say>
   <Dial>1-888-356-3281</Dial>
 </Response>
